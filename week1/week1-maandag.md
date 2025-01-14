@@ -1,47 +1,46 @@
 # Logboek
 
-**Datum:** `[dd/mm/yyyy]`  
-**Studentnaam:** `[Naam]`  
-**Groepsnaam:** `[Groep]`
+**Datum:** `[13/01/2025]`  
+**Studentnaam:** `[Simon De Vuyst]`  
+**Groepsnaam:** `[A2]`
 
 ---
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
-*Instructie (schrijf in bullets waar je aan gewerkt hebt):*  
-- Benoem de exacte onderdelen of bestanden waar je wijzigingen in hebt doorgevoerd (bijv. “In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).”).  
-- Als je iets samen met een teamgenoot hebt gemaakt, vermeld dit er duidelijk bij.
+- Ik heb een groep gevormd met Alexander, Kylian, Ivan en Bjorn
+- Ik heb naar de klanten en hun wensen geluisterd, elke klant geanalyseerd en genoteerd waar nodig.
+- Gekozen voor sorry box als groep
+- Werkomgeving opgezet
+- Product owner als rol opgenomen
+- Product backlog, Sprint backlog, doing en done aangemaakt
+- Gezamelijke figma file aangemaakt zodoende de groep ideën kan delen en of samenwerken.
+- Gebrainstormed over wat we gaan doen voor sorry box
 
+> **Activiteiten:**
 
-> **Activiteiten:**  
-> - In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).  
-> - Samen met [naam teamgenoot] de filterfunctionaliteit in `projects.js` opgezet om alleen lopende projecten te tonen.
+- figma aangemaakt
+- Scrumboard aangemaakt
+- Brainstorm
+- sorry box geanalyseerd
 
 ---
+
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-*Instructie (1 item per dag volstaat):*  
-- Omschrijf kort je persoonlijke vooruitgang.  
-- Dit kunnen technische skills zijn (bijv. een Figma design system setup gemaakt) of soft skills (bijv. team leren aansturen, medestudent gemotiveerd, presentatie gegeven, omgaan met feedback, ...).
-
-
-> **Nieuwe skills:**  
-> - Vandaag voor het eerst een gebruikerstest opgezet in Figma en feedback verwerkt in de wireframes.  
-> - Of: Ik heb geleerd hoe ik mijn teamgenoten kan motiveren als ze vastlopen.
+Ik heb geleerd wat de sorry box inhoud
 
 ---
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-*Instructie:*  
-- Noteer in 1 zin hoe je je voelt.  
-- Voeg een kleur of symbool toe dat je stemming weergeeft (bijv. een donderwolk bij boosheid of een happy smiley als je tevreden bent).
+Leuk, spannend, vooruitkijkend en aangenaam.
 
-
-> **Algmeeen gevoel:**  
-> - **"Blij"** :smiley:  
+> **Algmeeen gevoel:**
+>
+> - **"Blij"** :smiley:
 > - **"Gefrustreerd"** :zap:
 
 ---
 
-*Kopieer dit sjabloon voor je volgende dagen en pas de antwoorden telkens aan!*
+_Kopieer dit sjabloon voor je volgende dagen en pas de antwoorden telkens aan!_
