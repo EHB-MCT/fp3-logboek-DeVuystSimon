@@ -8,6 +8,7 @@
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
+- Scrum board geupdate
 - Overzicht gemaakt van nieuw idee voor onze klant en uitwerking
 - Nieuw idee gepitched
 - Nieuw idee aangepast en finaal gepitched
