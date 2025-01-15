@@ -31,7 +31,7 @@
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-Goed, gemotiveerd en vastberaden.   :)
+Goed, gemotiveerd en vastberaden.  
 
 > **Algmeeen gevoel:**  
 > - **"Blij"** :smiley:  
