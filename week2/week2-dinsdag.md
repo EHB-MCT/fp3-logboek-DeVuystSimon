@@ -1,8 +1,8 @@
 # Logboek
 
-**Datum:** `[dd/mm/yyyy]`  
-**Studentnaam:** `[Naam]`  
-**Groepsnaam:** `[Groep]`
+**Datum:** `[21/01/2025]`  
+**Studentnaam:** `[Simon]`  
+**Groepsnaam:** `[A2]`
 
 ---
 
